@@ -1,3 +1,3 @@
 
-impor no
+import no
 no.login()
